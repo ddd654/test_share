@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.js": "/test_share/static/js/main.31d6cfe0.js",
-    "index.html": "/test_share/index.html"
+    "main.css": "/test_share/static/css/main.31d6cfe0.css",
+    "main.js": "/test_share/static/js/main.5a8faea7.js",
+    "index.html": "/test_share/index.html",
+    "main.5a8faea7.js.map": "/test_share/static/js/main.5a8faea7.js.map"
   },
   "entrypoints": [
-    "static/js/main.31d6cfe0.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.5a8faea7.js"
   ]
 }
